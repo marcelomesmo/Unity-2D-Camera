@@ -8,10 +8,10 @@ Uses Unity *orthographicsize* to adjust camera for multiple resolutions. Useful 
   
 Design the game to a "larger" scale (4:3) and then adjust the screen according to the device: from the largest to the "smallest" scale (16:9).  
   
-gif1
+![](res1.gif)
   
 The usable (interactable) part of your game (where the gameplay enrolls) will be designed to this smaller scale, so that the user has the same interaction independent of screen size.  
   
-gif2
+![](res2.gif)
   
 
